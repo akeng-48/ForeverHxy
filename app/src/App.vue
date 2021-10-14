@@ -160,7 +160,7 @@ html{
 `
             ],
             currentMarkdown: '',
-            fullMarkdown: `nostar × Yueyue
+            fullMarkdown: `nostar × XinYue
 ----
 
 2021年09月19日22时50分。初初见面。两人齐齐心动。  
@@ -192,7 +192,7 @@ html{
 一起创造新颖的蓝图
 ----
 
-> 【Screw the world×I have my dear YueYue】  
+> 【Screw the world×I have my dear XinYue】  
 > 喂。我不只想影响你的习惯。我还要去改变你的人生。！
 
 
