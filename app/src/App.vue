@@ -160,7 +160,7 @@ html{
 `
             ],
             currentMarkdown: '',
-            fullMarkdown: `nostar × XinYue
+            fullMarkdown: `AKeng × XinYue
 ----
 
 2021年09月19日22时50分。初初见面。两人齐齐心动。  
