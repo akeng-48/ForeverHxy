@@ -164,7 +164,7 @@ html{
 ----
 
 2021年09月19日22时50分。初初见面。两人齐齐心动。  
-已有 \`${getDateDiff((new Date()).getFullYear()+'-'+((new Date()).getMonth()+1)+'-'+(new Date()).getDate(),'2016-09-15') + 1}\` 天
+已有 \`${getDateDiff((new Date()).getFullYear()+'-'+((new Date()).getMonth()+1)+'-'+(new Date()).getDate(),'2021-09-19')}\` 天
 
 未来我们可以做很多很多事
 ----
